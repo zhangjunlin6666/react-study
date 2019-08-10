@@ -1,0 +1,22 @@
+.penal{
+    border:1px solid #aaa;
+    width:500px;
+    margin:50px auto;
+}
+.title{
+    background-color: #aaa;
+    margin-block-start: 0;
+    margin-block-end: 0;
+    cursor: pointer;
+}
+.username{
+    color:red;
+}
+.message{
+    color:#aaa
+}
+.list-wrap{
+    height:0;
+    transition:height 0.56s;
+    overflow: hidden;
+}
