@@ -1,4 +1,9 @@
-<<<<<<< HEAD
+<!--
+ * @Author: jackson
+ * @Date: 2019-08-10 23:20:25
+ * @LastEditors: jackson
+ * @LastEditTime: 2019-08-10 23:22:22
+ -->
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -67,7 +72,3 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
-=======
-# react-study
-react官网学习
->>>>>>> 08180557b13f08ed30158efdcfc90d3f6864800d
